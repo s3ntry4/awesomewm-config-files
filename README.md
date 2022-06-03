@@ -3,7 +3,7 @@
 dependencies: awesome, rofi
 
 gtk theme: adwaita-dark
-icon theme: paper-dark
+icon theme: papirus
 
 sources: https://github.com/adi1090x/rofi, https://github.com/lcpz/awesome-copycats
 
