@@ -9,4 +9,4 @@ sources: https://github.com/adi1090x/rofi, https://github.com/lcpz/awesome-copyc
 
 used on debian
 
-put the folders into .config
+put the folders into ~/.config
